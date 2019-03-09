@@ -75,6 +75,14 @@ p {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.header-top nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
 }
 
 .header-top a {
