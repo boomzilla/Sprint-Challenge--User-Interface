@@ -126,7 +126,16 @@ header {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.about-boxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about-box {
+    width: 50%;
+}
+
+.middle-content .boxes .box, {
     width: 12.5%;
     height: 100px;
     background: black;
