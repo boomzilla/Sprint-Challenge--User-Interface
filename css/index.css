@@ -71,6 +71,16 @@ p {
     margin: 0 auto;
 }
 
+.header-top {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header-top a {
+    line-height: 1.4;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
