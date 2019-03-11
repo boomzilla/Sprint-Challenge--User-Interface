@@ -46,7 +46,7 @@ Block does a line-break. Inline keeps the height constrained.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-It centers them around the horizontal axis.
+Cross axis.
 
 5. Explain why git is valuable to a team of developers.
 
