@@ -141,6 +141,10 @@ header img {
     width: 50%;
 }
 
+.about-box hr {
+    width: 87%;
+}
+
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
