@@ -135,7 +135,7 @@ header {
     width: 50%;
 }
 
-.middle-content .boxes .box, {
+.middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
     background: black;
@@ -146,7 +146,7 @@ header {
     justify-content: center;
 }
 
-.middle-content .boxes .b1 {
+.b1 {
     background: teal;
 }
 
